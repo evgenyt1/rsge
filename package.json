@@ -1,0 +1,23 @@
+{
+  "name": "rsge",
+  "version": "1.0.0",
+  "description": "1. Выполняет ли физическое лицо определенную работу у работодателя по трудовому договору?",
+  "main": "rsge.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgenyt1/rsge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgenyt1/rsge/issues"
+  },
+  "homepage": "https://github.com/evgenyt1/rsge#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
