@@ -109,9 +109,9 @@ class Answerer {
                   ? this.result_service()
                   : (answer = "")),
             38 == this.fullCount && ("" != this.finalResult ? this.show_personal_popup() : alert("system error"));
-            // console.log(
-            //     "index : " + this.index + " swroir: " + this.sumanswer + " ; araswori: " + this.sumNoanswer
-            // );
+            console.log(
+                "index : " + this.index + " swroir: " + this.sumanswer + " ; araswori: " + this.sumNoanswer
+            );
         // console.log("zazaza", this.result);
     }
 
